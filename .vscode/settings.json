@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iosfwd": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "unordered_map": "cpp",
+        "stack": "cpp"
+    }
+}
